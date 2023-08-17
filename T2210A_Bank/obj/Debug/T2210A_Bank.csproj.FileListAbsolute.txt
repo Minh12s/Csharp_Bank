@@ -1,0 +1,8 @@
+D:\visual studio\T2210A\T2210A_Bank\obj\Debug\T2210A_Bank.csproj.AssemblyReference.cache
+D:\visual studio\T2210A\T2210A_Bank\obj\Debug\T2210A_Bank.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\T2210A\T2210A_Bank\obj\Debug\T2210A_Bank.csproj.CoreCompileInputs.cache
+D:\visual studio\T2210A\T2210A_Bank\bin\Debug\T2210A_Bank.exe.config
+D:\visual studio\T2210A\T2210A_Bank\bin\Debug\T2210A_Bank.exe
+D:\visual studio\T2210A\T2210A_Bank\bin\Debug\T2210A_Bank.pdb
+D:\visual studio\T2210A\T2210A_Bank\obj\Debug\T2210A_Bank.exe
+D:\visual studio\T2210A\T2210A_Bank\obj\Debug\T2210A_Bank.pdb
